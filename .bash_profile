@@ -21,7 +21,7 @@ alias ..4="cd ../../../.."
 alias ..5="cd ../../../../.."
 
 # Opens a book I use often. Useful for creating multiple instances.
-alias precalc="~/Google\ Drive/Book\ Collection/Precalculus\,\ Mathematics\ for\ Calculus\ \(Seventh\ Edition\).pdf"
+alias precalc="open -n ~/Google\ Drive/Book\ Collection/Precalculus\,\ Mathematics\ for\ Calculus\ \(Seventh\ Edition\).pdf"
 
 # Alias for showing/hiding hidden files in the Finder GUI.
 alias showFiles='defaults write com.apple.finder AppleShowAllFiles YES; killall Finder /System/Library/CoreServices/Finder.app'
